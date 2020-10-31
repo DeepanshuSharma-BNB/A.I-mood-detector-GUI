@@ -10,6 +10,6 @@ Mood detection GUI window to detect emotional tone of the text.
 
 ### Window output:
 
-![A.I_mood_detector_GUI main window](Mood GUI.png)
+![main window](Mood GUI.png)
 
-![A.I_mood_detector_GUI output](Mood GUI output.png)
+![output](Mood GUI output.png)
