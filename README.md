@@ -1,5 +1,5 @@
 # A.I mood detector GUI
-
+Mood detection GUI window to detect emotional tone of the text.
 ![A.I_mood_detector_GUI](Mood_GUI.png)
 
 ### Used Packages -
