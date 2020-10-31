@@ -1,6 +1,8 @@
-A.I mood detector GUI
+#A.I mood detector GUI
 
-Used Packages -
-Tkinter
-TextBlob
-Emoji
+![A.I_mood_detector_GUI](Mood_GUI.png)
+
+## Used Packages -
+* ### Tkinter
+* ### TextBlob
+* ### Emoji
