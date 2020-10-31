@@ -3,9 +3,9 @@ Mood detection GUI window to detect emotional tone of the text.
 
 ![A.I_mood_detector_GUI](Mood_GUI.png)
 
-![main window](Mood GUI.png)
+![main window](https://github.com/DeepanshuSharma-BNB/A.I_mood_detector_GUI/blob/main/Mood%20GUI.png)
 
-![output](Mood GUI output.png)
+![output](https://github.com/DeepanshuSharma-BNB/A.I_mood_detector_GUI/blob/main/Mood%20GUI%20output.png)
 
 ### Used Packages:
 * [Tkinter](https://docs.python.org/3/library/tkinter.html)
